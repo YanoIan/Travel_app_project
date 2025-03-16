@@ -49,4 +49,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, email support@xplore.com or raise an issue in the repository.
+For support, email yanoian050@gmail.com or raise an issue in the repository.
